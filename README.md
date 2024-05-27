@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I'm WX! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>一名工作在<a href="https://www.qit.edu.cn/">青岛工学院 的大学老师
+<p><em>一名工作在<a href="https://www.qit.edu.cn/">青岛工学院</a>的大学老师
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
